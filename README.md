@@ -57,6 +57,8 @@ The shield and the android wearing it:
 ![static_android_left_shield](https://user-images.githubusercontent.com/12531335/173207920-39a880f6-8f12-4c8d-ad14-70864d5fe2a5.png)
 
 ## ⬇⬇ Some screenshot of the game ⬇⬇
-<img src="https://user-images.githubusercontent.com/12531335/173208208-645111e6-1a43-4d12-9cac-5adf41025c21.jpg" width="300"> <img src="https://user-images.githubusercontent.com/12531335/173208214-7826b08c-cd63-445c-a69a-db0f116c4b2e.jpg" width="300"> <img src="https://user-images.githubusercontent.com/12531335/173208210-60bf9e7d-548a-4699-8b68-d1119f3a1108.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/12531335/173208208-645111e6-1a43-4d12-9cac-5adf41025c21.jpg" width="300"> <img src="https://user-images.githubusercontent.com/12531335/173208214-7826b08c-cd63-445c-a69a-db0f116c4b2e.jpg" width="300">
 
-<img src="https://user-images.githubusercontent.com/12531335/173208212-63a64941-89f8-48bd-9425-399070b6541d.jpg" width="300"> <img src="https://user-images.githubusercontent.com/12531335/173208209-93779b1f-f41e-4b9a-9cd0-e4002ef6e422.jpg" width="300"> <img src="https://user-images.githubusercontent.com/12531335/173208211-621fbf78-759f-42e8-b344-161c1f655273.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/12531335/173208210-60bf9e7d-548a-4699-8b68-d1119f3a1108.jpg" width="300"> <img src="https://user-images.githubusercontent.com/12531335/173208212-63a64941-89f8-48bd-9425-399070b6541d.jpg" width="300">
+
+<img src="https://user-images.githubusercontent.com/12531335/173208209-93779b1f-f41e-4b9a-9cd0-e4002ef6e422.jpg" width="300"> <img src="https://user-images.githubusercontent.com/12531335/173208211-621fbf78-759f-42e8-b344-161c1f655273.jpg" width="300">
