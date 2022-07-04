@@ -5,7 +5,7 @@ Inside the **BUILD** folder you can find the apk to install the game on your dev
 
 **NOTE #1:** This game has been made with API level 23 (Android Marshmallow).
 
-**NOTE #2:** The server, the database with the ranking and the user stats and the facebook functionalities are no longer active. You can only play a simple run.
+**NOTE #2:** The server, the database with ranking and user stats and the facebook functionalities are no longer active. You can only play a simple run.
 
 **NOTE #3:** The report is written in italian.
 
